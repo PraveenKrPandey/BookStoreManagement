@@ -26,15 +26,5 @@ PROBLEM STATEMENT:
 
 Features :
 
-staff login/logout
-Add /upadate / delete Book Record
-Add /upadate / delete Customer Record
-Add /upadate / delete dealer Record
-Search Book on the basis of specified criteria
-Book stock availability 
-Inventory management
-selling book process
-Purchase book process
-Report generation
-printing of bill recipt from printer
+Staff login/logout, Add /upadate / delete Book Record, Add /upadate / delete Customer Record, Add /upadate / delete dealer Record, Search Book on the basis of specified criteria ,Book stock availability, Inventory management, selling book process, Purchase book process, Report generation, printing of bill recipt from printer
 
